@@ -60,11 +60,16 @@
 
 ### Writing
 
-I write about Java, Spring and the fundamentals on [Medium](https://medium.com/@ykods):
+I write about **Java and Spring Boot** on [Medium](https://medium.com/@ykods): practical explanations, annotation deep-dives and the habits that make backend code easier to live with. Over 39 stories in the Java collection so far.
 
-- [Introduction to Spring and Spring Boot](https://medium.com/@ykods/introduction-to-spring-and-spring-boot-fdf1479691e)
-- [Spring MVC Structure Explained with an Example](https://medium.com/@ykods/spring-mvc-structure-explained-with-an-example-aa5728a13884)
+- [Best Practice for Constructor-Based Dependency Injection in Spring](https://medium.com/@ykods/best-practice-for-constructor-based-dependency-injection-in-spring-d9c061abbe03)
+- [Understanding @PathVariable and @RequestParam in Spring MVC](https://medium.com/@ykods/understanding-pathvariable-and-requestparam-in-spring-mvc-7d533b015286)
+- [Understanding and Optimizing the Default Behavior of JPA with ENUMS](https://medium.com/@ykods/understanding-and-optimizing-the-default-behavior-of-jpa-with-enums-ca7e1b1279c3)
+- [Use of @Transactional Annotation in Spring](https://medium.com/@ykods/use-of-transactional-annotation-in-spring-bfa577f7d2f7)
+- [Everything you need to know about Java Singleton Design Pattern](https://medium.com/@ykods/everything-you-need-to-know-about-java-singleton-design-pattern-46a9a319d7b9)
 - [21 Essential Spring Boot Annotations for Beginners](https://medium.com/@ykods/21-essential-spring-boot-annotations-for-beginners-bd354f0c03eb)
+
+<sub>**BROWSE BY TOPIC**</sub> &nbsp; [Java & Spring Boot](https://medium.com/@ykods/list/java-spring-boot-articles-94cfbfcc0863) · [JavaScript & React](https://medium.com/@ykods/list/javascript-react-articles-380321172d80) · [Databases](https://medium.com/@ykods/list/database-articles-4a01fedf42d5) · [Git](https://medium.com/@ykods/list/git-articles-0260a9bd17b4) · [Kafka](https://medium.com/@ykods/list/kafka-articles-89e19d85e8f5) · [Unit Testing](https://medium.com/@ykods/list/unit-testing-related-articles-a34158cf62cb) · [Algorithms](https://medium.com/@ykods/list/algorithms-0ef6a1b0411a)
 
 <br>
 
