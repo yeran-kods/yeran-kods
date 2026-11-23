@@ -34,14 +34,12 @@
 
 ### Selected work
 
-| | |
-|---|---|
-| [**tozan-website**](https://github.com/yeran-kods/tozan-website) | Guide site for the Tozan Pilgrimage |
-| [**nsa-website-sl**](https://github.com/yeran-kods/nsa-website-sl) | Community website for NSA Sri Lanka |
-| [**FinTrack**](https://github.com/yeran-kods/FinTrack) | Personal finance tracker for Android, in Kotlin |
-| [**Event-Management-System**](https://github.com/yeran-kods/Event-Management-System-Server) | Full-stack events platform, Spring Boot and React |
-| [**Online-Pet-Care-System**](https://github.com/yeran-kods/Online-Pet-Care-System) | Services marketplace for pets and their owners |
-| [**CSSE-PrimeConstruct**](https://github.com/yeran-kods/CSSE-PrimeConstruct) | Procurement platform for the construction industry |
+[**tozan-website**](https://github.com/yeran-kods/tozan-website) &nbsp;·&nbsp; Guide site for the Tozan Pilgrimage<br>
+[**nsa-website-sl**](https://github.com/yeran-kods/nsa-website-sl) &nbsp;·&nbsp; Community website for NSA Sri Lanka<br>
+[**FinTrack**](https://github.com/yeran-kods/FinTrack) &nbsp;·&nbsp; Personal finance tracker for Android, in Kotlin<br>
+[**Event-Management-System**](https://github.com/yeran-kods/Event-Management-System-Server) &nbsp;·&nbsp; Full-stack events platform, Spring Boot and React<br>
+[**Online-Pet-Care-System**](https://github.com/yeran-kods/Online-Pet-Care-System) &nbsp;·&nbsp; Services marketplace for pets and their owners<br>
+[**CSSE-PrimeConstruct**](https://github.com/yeran-kods/CSSE-PrimeConstruct) &nbsp;·&nbsp; Procurement platform for the construction industry<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg">

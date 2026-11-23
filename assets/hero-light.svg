@@ -25,5 +25,5 @@
 <text x="80" y="218" class="role" opacity="0">Writer on Medium<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.667;0.697;0.967;1.000;1" values="0;0;1;1;0;0"/><animate attributeName="y" dur="12s" repeatCount="indefinite" keyTimes="0;0.667;0.697;0.967;1.000;1" values="224;224;218;218;212;212"/></text>
   <text x="80" y="312" class="mono">SRI LANKA<tspan dx="14" fill-opacity="0.5">· BUILDING THINGS THAT FEEL GOOD TO USE</tspan></text>
 </g>
-<rect x="0.5" y="0.5" width="999" height="359" rx="20" fill="none" stroke="#dcd8d0"/>
+<rect x="0.5" y="0.5" width="999" height="359" rx="20" fill="none" stroke="#c9c4ba"/>
 </svg>
