@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Yeran Kodithuwakku — software engineer, designer, writer">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#ffffff" fill-opacity="0.07"/></pattern>
+  <radialGradient id="o1"><stop offset="0" stop-color="#ff9d6c" stop-opacity="0.55"/><stop offset="1" stop-color="#ff9d6c" stop-opacity="0"/></radialGradient>
+  <radialGradient id="o2"><stop offset="0" stop-color="#8f7bff" stop-opacity="0.55"/><stop offset="1" stop-color="#8f7bff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="ln" x1="0" x2="1"><stop offset="0" stop-color="#ff9d6c"/><stop offset="1" stop-color="#8f7bff"/></linearGradient>
+  <clipPath id="cp"><rect width="1000" height="360" rx="20"/></clipPath>
+  <style>
+    .name{font-family:'Iowan Old Style','Palatino Linotype',Palatino,Georgia,serif;font-size:68px;font-weight:400;letter-spacing:-1.5px;fill:#f3efe8}
+    .it{font-style:italic;fill:#8a8782}
+    .role{font-family:-apple-system,'SF Pro Display','Segoe UI',Helvetica,Arial,sans-serif;font-size:20px;font-weight:300;letter-spacing:5px;text-transform:uppercase;fill:#f3efe8}
+    .mono{font-family:ui-monospace,'SF Mono',Menlo,Consolas,monospace;font-size:12px;letter-spacing:2px;fill:#8a8782}
+  </style>
+</defs>
+<g clip-path="url(#cp)">
+  <rect width="1000" height="360" fill="#0a0a0b"/>
+  <rect width="1000" height="360" fill="url(#dots)"/>
+  <circle cx="760" cy="120" r="230" fill="url(#o1)"><animate attributeName="cx" values="760;840;760" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="120;200;120" dur="14s" repeatCount="indefinite"/></circle>
+  <circle cx="900" cy="260" r="210" fill="url(#o2)"><animate attributeName="cx" values="900;780;900" dur="17s" repeatCount="indefinite"/><animate attributeName="cy" values="260;150;260" dur="17s" repeatCount="indefinite"/></circle>
+  <text x="80" y="62" class="mono">YERAN-KODS<tspan dx="14" fill-opacity="0.5">/ PORTFOLIO</tspan><tspan dx="14" fill-opacity="0.5">/ 2026</tspan></text>
+  <text x="80" y="156" class="name">Yeran <tspan class="it">Kodithuwakku</tspan></text>
+  <line x1="80" y1="182" x2="300" y2="182" stroke="url(#ln)" stroke-width="2" stroke-linecap="round" stroke-dasharray="220" stroke-dashoffset="0"><animate attributeName="stroke-dashoffset" from="220" to="0" dur="1.6s" begin="0.4s" fill="freeze"/></line>
+  <text x="80" y="218" class="role" opacity="1">Software Engineer<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.03;0.30;0.333;1" values="0;1;1;0;0"/><animate attributeName="y" dur="12s" repeatCount="indefinite" keyTimes="0;0.03;0.30;0.333;1" values="224;218;218;212;212"/></text>
+<text x="80" y="218" class="role" opacity="0">Web &amp; Interface Designer<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.333;0.363;0.633;0.666;1" values="0;0;1;1;0;0"/><animate attributeName="y" dur="12s" repeatCount="indefinite" keyTimes="0;0.333;0.363;0.633;0.666;1" values="224;224;218;218;212;212"/></text>
+<text x="80" y="218" class="role" opacity="0">Writer on Medium<animate attributeName="opacity" dur="12s" repeatCount="indefinite" keyTimes="0;0.667;0.697;0.967;1.000;1" values="0;0;1;1;0;0"/><animate attributeName="y" dur="12s" repeatCount="indefinite" keyTimes="0;0.667;0.697;0.967;1.000;1" values="224;224;218;218;212;212"/></text>
+  <text x="80" y="312" class="mono">SRI LANKA<tspan dx="14" fill-opacity="0.5">· BUILDING THINGS THAT FEEL GOOD TO USE</tspan></text>
+</g>
+<rect x="0.5" y="0.5" width="999" height="359" rx="20" fill="none" stroke="#2a2927"/>
+</svg>
